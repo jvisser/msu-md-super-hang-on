@@ -9,6 +9,7 @@ SourceROMs:    Super Hang-On (W) (REV01) [!].md (CRC: 3877D107)
 
 Thanks:        ArcadeTV for providing the patch framework (https://github.com/ArcadeTV)
                Krikzz for the msu-md driver and Mega Everdrive (https://github.com/krikzz)
+               Retroplay and @32mbit (Dustin O'Dell) for the SoundPacks
 
 Source:        https://github.com/jvisser/msu-md-super-hang-on
 
